@@ -1,4 +1,6 @@
-# Airline Passenger Satisfaction
+# Airline Passenger Satisfaction: Exploratory Data Analysis
+
+Exploratory data analysis of the [Airline Passenger Satisfaction Dataset](https://www.kaggle.com/competitions/playground-series-s6e10/data) (~700,000 flight records), with a machine learning model to predict passenger satisfaction.
 
 ## Goal
 
